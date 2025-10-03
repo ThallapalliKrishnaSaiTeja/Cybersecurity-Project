@@ -1,0 +1,6 @@
+{
+  "type": "form",
+  "username": "demo_user",
+  "password": "demo_password",
+  "comment": "Example form-based authentication for login forms"
+}

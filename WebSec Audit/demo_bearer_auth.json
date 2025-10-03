@@ -1,0 +1,5 @@
+{
+  "type": "bearer",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...",
+  "comment": "Example Bearer token authentication for APIs"
+}

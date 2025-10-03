@@ -1,0 +1,6 @@
+{
+  "type": "basic",
+  "username": "admin",
+  "password": "admin123",
+  "comment": "Example HTTP Basic authentication"
+}
